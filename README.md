@@ -1,6 +1,6 @@
 # Three.js Particle System
 
-![Particle System Screenshot](https://github.com/tuo-username/tuo-repository/raw/main/path/dell/immagine.png)
+![Particle System Screenshot](https://github.com/Itera-Tech/Threejs---Particle-Demo/blob/main/image.png)
 
 This project is a simple 3D particle system created using [Three.js](https://threejs.org/). It renders a dynamic cloud of particles that respond to mouse movements, with colors and sizes varying randomly.
 
